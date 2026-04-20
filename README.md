@@ -103,6 +103,4 @@ Pull requests are welcome. This project is actively maintained and will continue
 
 ---
 
-## 📄 License
 
-MIT License
