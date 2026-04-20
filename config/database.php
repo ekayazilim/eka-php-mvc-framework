@@ -7,7 +7,7 @@ class database {
             'host' => 'localhost',
             'database' => 'eka_framework',
             'username' => 'root',
-            'password' => 'ServBay.dev',
+            'password' => '',
             'charset' => 'utf8mb4'
         ];
     }
