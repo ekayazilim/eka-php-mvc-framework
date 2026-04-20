@@ -1,0 +1,12 @@
+{
+    "home_title": "Home Page",
+    "welcome_message": "Welcome to Eka PHP MVC Framework",
+    "login_title": "Login",
+    "dashboard_title": "Dashboard",
+    "email": "Email Address",
+    "password": "Password",
+    "login_button": "Sign In",
+    "logout_button": "Sign Out",
+    "error_general": "An error occurred.",
+    "error_login": "Invalid email or password."
+}

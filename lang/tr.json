@@ -1,0 +1,12 @@
+{
+    "home_title": "Ana Sayfa",
+    "welcome_message": "Eka PHP MVC Framework'e Hoş Geldiniz",
+    "login_title": "Giriş Yap",
+    "dashboard_title": "Yönetim Paneli",
+    "email": "E-posta Adresi",
+    "password": "Şifre",
+    "login_button": "Giriş",
+    "logout_button": "Çıkış Yap",
+    "error_general": "Bir hata oluştu.",
+    "error_login": "E-posta veya şifre hatalı."
+}
